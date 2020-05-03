@@ -1,0 +1,14 @@
+/Users/akaraman/MyProjects/netcoreDapper/bin/Debug/netcoreapp2.1/netcoreDapper.deps.json
+/Users/akaraman/MyProjects/netcoreDapper/bin/Debug/netcoreapp2.1/netcoreDapper.runtimeconfig.json
+/Users/akaraman/MyProjects/netcoreDapper/bin/Debug/netcoreapp2.1/netcoreDapper.runtimeconfig.dev.json
+/Users/akaraman/MyProjects/netcoreDapper/bin/Debug/netcoreapp2.1/netcoreDapper.dll
+/Users/akaraman/MyProjects/netcoreDapper/bin/Debug/netcoreapp2.1/netcoreDapper.pdb
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.csprojAssemblyReference.cache
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.csproj.CoreCompileInputs.cache
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.RazorAssemblyInfo.cache
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.RazorAssemblyInfo.cs
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.AssemblyInfoInputs.cache
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.AssemblyInfo.cs
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.RazorTargetAssemblyInfo.cache
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.dll
+/Users/akaraman/MyProjects/netcoreDapper/obj/Debug/netcoreapp2.1/netcoreDapper.pdb
